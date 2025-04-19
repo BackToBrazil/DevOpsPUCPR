@@ -5,7 +5,9 @@
       push: null
       pull_request: null
     
-    permissions: {}
+    permissions: 
+        contents: write
+        pull-requests: write
     
     jobs:
       build:
