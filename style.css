@@ -1,5 +1,5 @@
 html{
-    background-image: url(./src/images/background_mainpage.jpg);
+    background-image: url("./src/images/background_mainpage.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 }
