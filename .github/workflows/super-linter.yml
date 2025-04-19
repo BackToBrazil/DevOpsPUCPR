@@ -31,7 +31,7 @@
             env:
               # To report GitHub Actions status checks
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              FIX_CSS_PRETTIER: false
-              FIX_HTML_PRETTIER: false
-              FIX_MARKDOWN_PRETTIER: false
-              FIX_YAML_PRETTIER: false
+              VALIDATE_CSS_PRETTIER: false
+              VALIDATE_HTML_PRETTIER: false
+              VALIDATE_MARKDOWN_PRETTIER: false
+              VALIDATE_YAML_PRETTIER: false
