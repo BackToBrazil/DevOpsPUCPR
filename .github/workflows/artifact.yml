@@ -17,6 +17,6 @@ jobs:
         with:
             name: my-artifact.zip
             path: |
-                ./scr
+                /scr
                 index.html
                 style.css
