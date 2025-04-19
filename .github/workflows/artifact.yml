@@ -17,6 +17,6 @@ jobs:
         with:
             name: my-artifact.zip
             path: |
-                ./src/
+                ${{ github.workspace }}/src/images/background_mainpage.jpg
                 index.html
                 style.css
