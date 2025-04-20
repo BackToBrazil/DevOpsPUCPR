@@ -24,7 +24,7 @@ jobs:
             index.html
             style.css
   deploy:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/download-artifact@v4
         with:
