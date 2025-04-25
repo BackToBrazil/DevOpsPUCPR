@@ -1,8 +1,4 @@
-from src.main import add
-from src.main import subtract
-from src.main import multiply
-from src.main import divide
-from src.main import power
+from src.main import *
 
 class TestCalculator:
     def test_add(self):
