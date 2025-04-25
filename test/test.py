@@ -1,3 +1,6 @@
+def test_root():
+    return null
+
 class Calculator:
     def add(self, a, b):
         return a + b
