@@ -15,3 +15,4 @@ class TestCalculator:
 
     def test_power(self):
         assert power(2, 3) == 8
+
