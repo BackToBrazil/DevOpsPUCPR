@@ -23,6 +23,7 @@ jobs:
             src/images/background_mainpage.jpg
             index.html
             style.css
+            **.py
   deploy:
     runs-on: ubuntu-latest
     needs: deliver
